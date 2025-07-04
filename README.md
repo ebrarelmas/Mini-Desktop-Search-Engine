@@ -12,6 +12,7 @@ add it to your binary search tree. The node structure for BST is as follows:
 ![Ekran görüntüsü 2025-07-04 093347](https://github.com/user-attachments/assets/fa1611ea-8537-4305-ab06-db099a26c69e)
 
 Example: 
+
 Content of the input file: the first case is that of the wide flanged beam with convective heat transfer into 
 the outer faces of the flanges. The second case considered is that of convective heat transfer into one side of 
 a flat plate. 
